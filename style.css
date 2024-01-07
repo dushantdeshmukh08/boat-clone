@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial;
+}
+
+/* nav-bar-uppersection */
+
+.upper-nav{
+    height: 30px;
+    background-color: rgb(244, 244, 244);
+    padding: 05px;
+    
+}
+
+.upper-nav h6{
+    font-size: 12px;
+}
+
+.nav-bar-main{
+    background-color: rgb(255, 255, 255);
+}
+.font-style-decr{
+    font-size: 13px;
+}
+
+/* .card-middle-part{
+    height: 30px;
+    background-color: yellow;
+} */
+
+.footer-carousal{
+    height: 300px;
+    width: 550px;
+    background-color: rgb(175, 175, 175);
+    text-align: center;
+    
+}
+.fontstyleall p{
+    font-size: 10px;
+}
+main{
+    background-color: rgb(243, 243, 243);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.main-02 {
+    background-color: white;
+}
+.text-01{
+    background-color: rgb(235, 235, 235);
+}
+
+.main-banner-text{
+    font-size: 9px;
+}
